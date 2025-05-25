@@ -1,5 +1,3 @@
-Sure! Here’s a nicely formatted README.md for your Twitter Sentiment Analyzer project:
-
 ````markdown
 # Twitter Sentiment Analyzer
 
@@ -88,12 +86,3 @@ Ayush Sharma
 [GitHub Profile](https://github.com/Ayush-code28)
 
 ---
-
-Feel free to contribute or raise issues! 🚀
-
-```
-
----
-
-If you want, I can generate the LICENSE file next or help you add this README to your repo. Just say the word!
-```
